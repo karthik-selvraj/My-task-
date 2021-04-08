@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+
+
+<title> Karthik's site  </title>
+	<style>
+		body { background:white; 
+			}
+		h4  {  color: red;
+			}
+		P   {  color:black;
+			}
+	</style>
+</head>
+
+<body>
+Hello Guys!
+
+<h4> WELCOME TO MY SITE </h4>
+
+<p style="color:red; background-color:black;"> This is my site by using HTML <br> hope you will like it. </p>
+
+<p> This is my another paragraph and I will make it <b><i>better</i></b> more than this. </p>
+
+<!-- this is a comment-->
+
+</body>
+
+</html>
